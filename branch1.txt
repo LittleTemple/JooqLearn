@@ -1,1 +1,5 @@
-bbbbbbb
+<<<<<<< Updated upstream
+aaaaaa
+=======
+branch2
+>>>>>>> Stashed changes
