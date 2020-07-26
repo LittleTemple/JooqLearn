@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 aaaaaa
+=======
+branch2
+>>>>>>> Stashed changes
 =======
 branch2
 >>>>>>> Stashed changes
