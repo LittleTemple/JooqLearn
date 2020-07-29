@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-dbutils-1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-email-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-lang3-3.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/cron4j-2.2.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/jetty-all-9.4.6.v20170531-uber.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/simple-xml-2.7.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/fastjson-1.2.37.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/pinyin4j-2.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../devel/server/starter/lib/jooq-3.10.6.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../../../devel/server/service/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../devel/server/service/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../devel/server/service">
+      <sourceFolder url="file://$MODULE_DIR$/../../../devel/server/service/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-dbutils-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users/wgq/AppData/Local/Temp/decompiler/source/commons-dbutils-1.6-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-email-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-email-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users/wgq/AppData/Local/Temp/decompiler/source/commons-email-1.4-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-lang3-3.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users/wgq/AppData/Local/Temp/decompiler/source/commons-lang3-3.4-sources-1503044157290.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cron4j-2.2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/cron4j-2.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-all-9.4.6.v20170531-uber.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/jetty-all-9.4.6.v20170531-uber.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="simple-xml-2.7.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/simple-xml-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fastjson-1.2.37.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/fastjson-1.2.37.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users/wgq/AppData/Local/Temp/decompiler/source/fastjson-1.2.37-sources-1522740566567.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.39-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pinyin4j-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/pinyin4j-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jooq-3.10.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../devel/server/starter/lib/jooq-3.10.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users/wgq/AppData/Local/Temp/decompiler/source/jooq-3.10.6-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="GoodsPlugin" />
+    <orderEntry type="module" module-name="starter" />
+    <orderEntry type="module" module-name="BaseInfoPlugin" />
+    <orderEntry type="module" module-name="PlatformUtils" />
+    <orderEntry type="module" module-name="StockPlugin" />
+    <orderEntry type="module" module-name="SalesPlugin" />
+  </component>
+</module>
